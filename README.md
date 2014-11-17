@@ -1,6 +1,6 @@
 # JL8 Comic Helper
 
-Firstly, [JL8](http://jl8comic.tumblr.com/aboutcomic) is one of my favorite webcomics, but I tend to read my comics on my tablet, so this downloads the latest comics and bundles it into a CBR file.
+Firstly, [JL8](http://jl8comic.tumblr.com/aboutcomic) is one of my favorite webcomics, but I tend to read my comics on my tablet, so this downloads the latest comics and bundles it into a CBZ file.
 
 
 ## Usage
