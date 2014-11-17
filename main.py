@@ -17,6 +17,13 @@ debug=True
 d = feedparser.parse('http://limbero.org/jl8/rss/')
 
 
+def getint(name):
+    basename = name.partition('.')
+    try:
+    	return int(basename[0])
+    except:
+    	return int(basename[0].partition("_")[0])
+
 
 tempfiles = [ f for f in os.listdir(COMIC_DIR) if f.endswith(".tmp") ]
 
@@ -44,6 +51,7 @@ for entry in d['entries']:
 db.close()
 
 comicfiles = [ f for f in os.listdir(COMIC_DIR)]
+comicfiles.sort(key=getint)
 
 puts(colored.white("Creating CBZ file"))
 zf = zipfile.ZipFile("dist/jl8-comics.cbz", "w")
