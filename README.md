@@ -1,6 +1,6 @@
 # JL8 Comic Helper
 
-Firstly, [JL8](http://jl8comic.tumblr.com/aboutcomic) is one of my favorite webcomics, but I tend to read my comics on my tablet, so this downloads the latest comics and bundles it into a CBZ file.
+[JL8](http://jl8comic.tumblr.com/aboutcomic) is one of my favorite webcomics, but I tend to read my comics on my tablet, so this downloads the latest comics and bundles it into a CBZ file.
 
 
 ## Usage
@@ -32,4 +32,4 @@ Code released under [the MIT license](LICENSE).
 
 ## Credits
 
-Much love to [Yale Stewart](jl8comic.tumblr.com/aboutauthor) for this incredible comic. You can find him on [deviantART](http://yalestewart.deviantart.com) and [Twitter](https://twitter.com/yalestewart).
+Much love to [Yale Stewart](http://jl8comic.tumblr.com/aboutauthor) for this incredible comic. You can find him on [deviantART](http://yalestewart.deviantart.com) and [Twitter](https://twitter.com/yalestewart).
